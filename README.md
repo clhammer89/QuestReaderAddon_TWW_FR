@@ -1,6 +1,4 @@
-# WoW - Quest Reader Add The War Within French language pack
-
-# Note - This only works with The War Within quests, so far.
+# WoW - Quest Reader Addon The War Within French language pack
 World of Warcraft addon that reads quest text using a similar voice as the NPC quest giver. Each quest text dialogue has a generated audio file that was read using an AI voicemodel generated from their in-game audio. This repository/addon is a sound pack for "The War Within" wow expansion in the French language.
 
 # Installation:
