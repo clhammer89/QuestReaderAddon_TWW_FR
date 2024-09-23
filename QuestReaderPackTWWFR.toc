@@ -1,0 +1,7 @@
+## Interface: 110002
+## Title: Quest Reader Pack: The War Within French
+## Author: clhammer weirdautomation@gmail.com, Paratus
+## Version: 1.0
+## Notes: The War Within French quest voice pack for Quest Reader Addon
+
+QuestReaderPackTWWFR.lua
