@@ -12,6 +12,8 @@ If you are using Curseforge, just downloading and installing using the Curseforg
 
 If you are downloading via Github, after downloading the Quest Reader Addon The War Within French language pack, extract the zip file and copy the folder to your World of Warcraft\Interface\AddOns folder.
 
+Regardless of which download method, the last required step is to go to your World of Warcraft\Interface\AddOns\QuestReaderAddon\ folder and edit the file QuestReaderAddon.toc file by removing the "SoundLengths.lua" line. This will aply this voice pack and overwrite the English voices.
+
 
 # Usage:
 This will add a "Read Quest" button to the bottom of the quest frame that will read the quest. There are also some Addon options for enabling/disabling the minimap icon and toggling auto-read on or off.
